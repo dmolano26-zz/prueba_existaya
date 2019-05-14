@@ -9,7 +9,7 @@ Se uso el CDN de Boostrap, por lo cual se necesita tener conexión a internet.
 
 ## Instalación
 1. Instalar NodeJS:
-sudo apt install nodejs
+sudo apt install nodejs\n
 nodejs --version
 
 2. Instalar gestor NPM:
