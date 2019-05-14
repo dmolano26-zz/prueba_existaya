@@ -18,6 +18,8 @@
     padding-left: 12.41% !important;
     padding-right: 37.33% !important;
     padding-top: 3.67% !important;
+    background-color: #284AA0 !important; 
+    width: 715px !important;
   }
 
   .rectangle-7 {
@@ -44,7 +46,10 @@
 
   #contenedor-form {
     background-color: #fff !important;
-    padding-bottom: -10000px !important;
+    background-color: #ffffff !important; 
+    z-index: 999 !important;
+    position: relative !important; 
+    margin-top: -170px !important;
   }
 
   #btn-registrarme {
