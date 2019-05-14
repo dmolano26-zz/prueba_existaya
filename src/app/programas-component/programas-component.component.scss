@@ -1,0 +1,32 @@
+h2 {
+    color: #284AA0;
+    font-size: 40px !important;
+}
+
+i {
+    color: #921616 !important;
+}
+
+ul li {
+    color: #3c3c3c;   
+    list-style: none; 
+  }
+
+#listado li::before {
+    color: #921616;  
+    content: "\2022"; 
+    font-size: 30px; 
+    padding-right: 1.1225em; 
+    padding-bottom: -10px !important;
+    position: relative;
+}
+
+#nivel_degrade {
+    color: #d6d6d6;
+    font-size: 60px !important;
+}
+
+#nav_niveles {
+    color: #284AA0;
+    font-size: 20px !important;
+}
